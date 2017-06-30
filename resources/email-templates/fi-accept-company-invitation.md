@@ -2,7 +2,7 @@
 
 {{inviter.firstName}} {{inviter.lastName}} haluaa valtuuttaa yrityksenne {{company.name}} mukaan Lupapisteess&auml; hankkeelle {{operation}} osoitteessa {{address}}, {{municipality}}.
 
-Klikkaa alla olevaa linkki&auml; liitt&auml;&auml;ksesi Yritystilisi hakemuksen osapuoleksi. Samalla hyv&auml;ksyt s&auml;hk&ouml;isen valtuutuskutsun, joka vastaa perinteist&auml; valtakirjaa.
+Klikkaa alla olevaa linkki&auml; liitt&auml;&auml;ksesi yrityksesi hankkeen osapuoleksi. Samalla hyv&auml;ksyt s&auml;hk&ouml;isen valtuutuksen, jonka li&auml;ksi hakemukselle ei tarvita liitteen&auml; valtakirjaa.
 
 {{link}}
 
